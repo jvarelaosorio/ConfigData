@@ -1,0 +1,9 @@
+info:
+  component: VehicleService
+  
+spring:
+  application:
+    name: lab-3-client
+  profiles: west
+lucky-word: Rabbits Foot
+  
